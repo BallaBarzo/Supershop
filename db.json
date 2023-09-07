@@ -1,0 +1,76 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "title": "Black Suit",
+      "price": "48",
+      "category": "Men's Clothing",
+      "image": "https://th.bing.com/th/id/OIP.RDXZ-JFd5t1GSpT80zLpYwHaE7?pid=ImgDet&rs=1",
+      "description": "this one is a real comfortable cloth to wear"
+    },
+    {
+      "id": 2,
+      "title": "Necklace",
+      "price": "35",
+      "category": "Jewelry",
+      "image": "https://th.bing.com/th/id/OIP.CZcpmf1kzwQZ2XwOjru9pwHaFj?pid=ImgDet&rs=1",
+      "description": "made of great materials"
+    },
+    {
+      "id": 3,
+      "title": "Men style Watch",
+      "price": "92",
+      "category": "Men's accessories",
+      "image": "https://th.bing.com/th/id/R.115b17bccf2492569b0b78733ba27ade?rik=LNlnFQmBh%2b3oKw&pid=ImgRaw&r=0",
+      "description": "great quality comes with great money"
+    },
+    {
+      "id": 4,
+      "title": "Gold Ring",
+      "price": "12",
+      "category": "Jewelry",
+      "image": "https://th.bing.com/th/id/OIP.tGFm_JgOksmdAhlt4QWMIAHaE4?pid=ImgDet&rs=1",
+      "description": "Gold Alloy metal"
+    },
+    {
+      "id": 5,
+      "title": "Abiibas",
+      "price": "36",
+      "category": "Men's Clothing",
+      "image": "https://th.bing.com/th/id/OIP.enV3F_zAEF7Krw8ZQo3YjQHaHa?pid=ImgDet&rs=1",
+      "description": "Don't mind the Brand name, I guarantee you it's 100% original"
+    },
+    {
+      "id": 6,
+      "title": "Ultra Black Shades",
+      "price": "70",
+      "category": "Men's accessories",
+      "image": "https://www.mostbeautifulthings.net/wp-content/uploads/2014/09/sunglasses-for-men-16.jpg",
+      "description": "Wear this and you're no different than a blind man"
+    },
+    {
+      "title": "Women Dresses",
+      "price": "98",
+      "description": "beautiful black coat with made fur",
+      "image": "https://th.bing.com/th/id/OIP.vssoug0sY-XompJdFrkzCAHaHa?pid=ImgDet&rs=1",
+      "category": "clothing",
+      "id": 7
+    },
+    {
+      "title": "Apple Airpods",
+      "price": "89",
+      "description": "I swear this is original",
+      "image": "https://www.gannett-cdn.com/presto/2019/08/21/USAT/8b9d4631-d8d1-4f93-9483-5b3d78472e7d-Apple-AirPods-On-Table.jpg?crop=2189,1231,x0,y0&width=3200&height=1680&fit=bounds",
+      "category": "electronics",
+      "id": 8
+    },
+    {
+      "id": 6,
+      "title": "shoes",
+      "price": "65",
+      "category": "Men's Clothing",
+      "image": "https://i.pinimg.com/474x/69/ac/9e/69ac9e7fe3927a092bbaf743fb3da5bf.jpg",
+      "description": "this one is a real comfortable shoe to wear"
+    }
+  ]
+}
